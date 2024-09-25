@@ -9,4 +9,4 @@ Spicetify restore backup
 echo Applying Update and Install
 Spicetify apply
 echo All commands exectuted. Opening Spotify!
-start "" "C:\Users\dylan\AppData\Roaming\Spotify\Spotify.exe"
+start "" "C:\Users\%USERNAME%\AppData\Roaming\Spotify\Spotify.exe"
